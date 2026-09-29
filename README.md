@@ -13,7 +13,7 @@ Illegal input(numbers above 6) are treated as fouls.
 1. Toss: one have to choose even and automatically other will get odd. Both have to pick a number between 1 and 6, and the winner will be decide by the sum of two numbers picked is eve or odd
    * if the sum is even, the player who choose Even will win the toss.
    * if the sum is odd, the player who choose Odd will win the toss.
-2. Vail number: Only numbers between 1 and 6 are allowed, any number greater will consider as a foul and the batter will lose his batting as a penalty.
+2. Vaildation number: Only numbers between 1 and 6 are allowed, any number greater will consider as a foul and the batter will lose his batting as a penalty.
 3. Match length: The match will be of 1 over(includes 6 balls)
 4. Inning: Both players will get to chance to do batting and bowling, one after the other.
 5. Scoring: The sum of the numbers picked by both the players while the time of batting will be there final score.
