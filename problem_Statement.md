@@ -3,6 +3,7 @@
 Simple console games are a good way to practice core programming concepts such as input validation, conditionals, loops, and lists.
 This project builds a two-player game called Odd-Even, modeled on cricket.
 Players choose numbers between 1 and 6, which represent runs, and compete for the higher batting score over one over (6 balls).
+
 2.Objective:-
 * Implement a toss based on the Odd/Even choice and the sum of both players' numbers.
 * Let the toss winner choose whether to bat or bowl first.
@@ -10,14 +11,17 @@ Players choose numbers between 1 and 6, which represent runs, and compete for th
 * Let each player bat and bowl in turn for 6 balls.
 * Store each player's batting numbers in a list and calculate the total.
 * Compare both totals and declare the winner.
+
 3.Scope:-
 * Two players on the same device
 * One over (6 balls) per innings
 * Console-based, with no graphical interface
+
 4.Inputs:-
 * Enter 'O' for Odd or 'E' for Even choice for the toss
 * Numbers from 1 to 6 from each player
 * Batting or bowling choice from the toss winner
+
 5.Output:-
 * Toss result and the winner's decision for batting or bowling
 * Ball-by-ball numbers for each innings
