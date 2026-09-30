@@ -47,6 +47,5 @@ Illegal input(numbers above 6) are treated as fouls.
 * Enter letters in upper case only otherwise it will give error
 * Bowling and batting is a alternative process so play accordingly
 
-#Author
-Moksh lakhmani
+#Moksh lakhmani
 26MIP10040
