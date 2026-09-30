@@ -19,17 +19,25 @@ Any number picked greater that 6 while the time of batting will be considered as
 * Based on the sum value winner will be declared. 
 
 3.Scope:-
-* Two players on the same device
-* One over (6 balls) per innings
-* Console-based, with no graphical interface
+* Two player will play on a single device at the same time
+* console bade game, do not involve any graphics
+* increase key interest of new beginner in coding
 
-4.Inputs:-
-* Enter 'O' for Odd or 'E' for Even choice for the toss
-* Numbers from 1 to 6 from each player
-* Batting or bowling choice from the toss winner
+4.Target users:-
+* Beginners who have just started learning python
+* Young students because they know how to play ODD Even and have interest
+ 
+5.High-level feature:-
+* Enter 'O' for Odd or 'E' for Even 
+* Enter numbers between 1 and 6 for each player
+* Sum of both numbers entered and check whether the sun is Even or Odd
+* Batting first or bowling first choice for the player who won the toss
+* Each inning have 6 balls
+* Winner will be decided on compare total score made by both the players while batting
 
-5.Output:-
-* Toss result and the winner's decision for batting or bowling
-* Ball-by-ball numbers for each innings
-* Total score for each player while batting
-* Final winner announcement based on total score created by each player
+6.Output:-
+* Winner of the toss
+* choice of the player to do bat first or bowl first
+* numbers store in list while doing batting
+* total score made by each player while batting
+* winner base on comparison of total score made by each player
