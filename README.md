@@ -28,6 +28,25 @@ Illegal input(numbers above 6) are treated as fouls.
 * Automatic calculation
 * Winner declaration
 
+#Technology used:-
+* Python
+* import numpy
+* Array
+* list
+* sum
+
+#Step to install and run:-
+* install any python compiler
+* copy the code and paste there
+* compile and run the code
+* fill the entries accordingly to the instructions given
+
+#Instruction for testing:-
+* Enter the enteries as instructed
+* Do not enter any number greater than 6 otherwise it will give a foul
+* Enter letters in upper case only otherwise it will give error
+* Bowling and batting is a alternative process so play accordingly
+
 #Author
 Moksh lakhmani
 26MIP10040
