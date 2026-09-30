@@ -1,18 +1,22 @@
 #Odd-Even: A Two-Player Cricket-Inspired Number Game
 1. Problem Description:-
-Simple console games are a good way to practice core programming concepts such as input validation, conditionals, loops, and lists.
-This project builds a two-player game called Odd-Even, modeled on cricket.
-Players have to pick numbers between 1 and 6, which will be counted as runs, and compete for the higher score for one over (6 balls).
-player with higher score will win the match.
+childhood games is a better way to do programming that involve input validation, conditions and loop concept.
+this project is made on a childhood game known as Even-Odd.
+It is a two player game where players are allowed to pick numbers between 1 and 6.
+Same as the cricket there is toss at the starting.
+winner of the toss have the right to choose whether to bat first or bowl first.
+sum of the numbers picked by the players while the time of their batting will be compared.
+player with higher batting score will the match.
+Any number picked greater that 6 while the time of batting will be considered as a foul and the player shall loss his batting.
 
 2.Objective:-
-* Implement a toss based on the Odd or Even choice, players have to pick a number between 1 and 6 , and the sum of both player's numbers will be check for even or odd.
-* Let the toss winner choose whether to bat first or bowl first.
-* Validate input form the players
-* any number greater than 6 will be counted as a foul.
-* Let each player bat and bowl one-by-one for 6 balls.
-* Store each player's batting numbers in a list and calculate the sum of numbers picked by each player.
-* Compare both totals and declare the winner.
+* A cricket based game that involves same everything as in cricket like toss, batting and bowling except few thing like fielding.
+* Players have to pick the numbers between 1 and 6.
+* Validate the inputs.
+* Any number greater than 6 will be consider as a foul.
+* numbers picked by the players will be stored in list then in array.
+* Sum of both the runs made by each player will be calculated.
+* Based on the sum value winner will be declared. 
 
 3.Scope:-
 * Two players on the same device
